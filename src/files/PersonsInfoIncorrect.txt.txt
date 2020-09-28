@@ -1,0 +1,2 @@
+Viktoria 1 = {none, none, 12, 3}
+Svetlana 2 = { }

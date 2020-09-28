@@ -1,0 +1,19 @@
+maxGen = 5
+Viktoria 1 -> Svetlana 3
+Viktoria 1 -> Igor 2
+Svetlana 3 - Igor 2
+Svetlana 3 <-> Stepan 8
+Svetlana 3 -> Galina 6
+Svetlana 3 -> Alexey 7
+Galina 6 - Alexey 7
+Alexey 7 -> Galina 11
+Alexey 7 -> Stepan 13
+Alexey 7 <-> Stepan 10
+Alexey 7 <-> Anton 9
+Galina 11 <-> Stepan 12
+Igor 2 -> Galina 4
+Igor 2 -> Nikolai 5
+Galina 4 - Nikolai 5
+Nikolai 5 -> Igor 14
+Igor 14 <-> Alexey 15
+Igor 14 <-> Viktoria 16

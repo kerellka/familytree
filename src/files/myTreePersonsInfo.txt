@@ -1,0 +1,16 @@
+Viktoria 1 = { Viktoria, Udina, Igorevna, Female, 10.9.2000, null }
+Igor 2 = { Igor, Udin, Nikolaevich, Male, 7.9.1963, null }
+Svetlana 3 = { Svetlana, Udina, Alexeevna, Female, 13.8.1974, null }
+Galina 4 = { Galina, Udina, Viktorovna, Female, 8.1.1938, null }
+Nikolai 5 = { Nikolai, Udin, none, Male, 1.1.1930, 1.1.2004 }
+Galina 6 = { Galina, Vasileva, Alexeevna, Female, 16.11.1950, null }
+Alexey 7 = { Alexey, Vasileev, none, Male, 1.2.1950, 1.9.2018 }
+Stepan 8 = { Stepan, Petrov, Robertovich, Male, 1.1.1999, null }
+Anton 9 = { Anton, Petrov, Antonovich, Male, 1.1.1980, null }
+Stepan 10 = { Stepan, Petrov, Robertovich, Male, 1.1.1999, null }
+Galina 11 = { Galina, Vasileva, Alexeevna, Female, 16.11.1950, null }
+Stepan 12 = { Stepan, Petrov, Robertovich, Male, 1.1.1999, null }
+Stepan 13 = { Stepan, Petrov, Robertovich, Male, 1.1.1999, null }
+Igor 14 = { Igor, Udin, Nikolaevich, Male, 7.9.1963, null }
+Alexey 15 = { Alexey, Vasileev, none, Male, 1.2.1950, 1.9.2018 }
+Viktoria 16 = { Viktoria, Udina, Igorevna, Female, 10.9.2000, null }
